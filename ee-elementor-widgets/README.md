@@ -1,6 +1,6 @@
 # EE Widgets
 
-EE Widgets for Elementor extension of Elementor Widgets that include custom feaures or attributes.
+EE Widgets for Elementor extends Elementor Widgets to include custom feaures or attributes.
 
 ### How to use EE Slides
 
